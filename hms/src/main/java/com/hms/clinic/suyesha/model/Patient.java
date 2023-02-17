@@ -31,7 +31,7 @@ public class Patient {
 	
 	private String address;
 	
-	private Integer mobile;
+	private Long mobile;
 	
 	private String cghsPrivate;
 }

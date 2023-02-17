@@ -21,7 +21,7 @@ import com.hms.clinic.suyesha.exception.PatientIDException;
 import com.hms.clinic.suyesha.model.Patient;
 import com.hms.clinic.suyesha.service.PatientService;
 
-@CrossOrigin("*")
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/patient")
 public class PatientController {

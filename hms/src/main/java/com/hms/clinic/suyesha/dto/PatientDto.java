@@ -23,7 +23,7 @@ public class PatientDto{
 	
 	private String address;
 	
-	private Integer mobile;
+	private Long mobile;
 	
 	private String cghsPrivate;
 	
